@@ -1,0 +1,5 @@
+Artificial intelligence is transforming the world.
+Machine learning models can generate text based on patterns in data.
+This is a simple text generator project created using Keras and TensorFlow.
+The model learns sequences of characters and predicts the next one.
+Text generation is a fun way to understand deep learning concepts.
